@@ -1,0 +1,29 @@
+
+  
+  .background-color{
+      
+      
+    background-image: url("../images/iLoveAti.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 1;
+
+  }
+
+  .lion{
+    width:4em;
+      
+  }
+  
+  
+  #black{
+  color:black;
+  }
+
+
+  a:hover{
+    background-color:white;
+  }
